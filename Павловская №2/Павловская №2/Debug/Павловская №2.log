@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Павловская №2.cpp
+c:\users\acer\source\repos\павловская №2\павловская №2\павловская №2.cpp(14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\acer\source\repos\павловская №2\павловская №2\павловская №2.cpp(23): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+c:\users\acer\source\repos\павловская №2\павловская №2\павловская №2.cpp(25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\acer\source\repos\павловская №2\павловская №2\павловская №2.cpp(30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Павловская №2.vcxproj -> C:\Users\acer\source\repos\Павловская №2\Debug\Павловская №2.exe

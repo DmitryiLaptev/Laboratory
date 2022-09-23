@@ -1,0 +1,4 @@
+﻿  Павловская №4.cpp
+c:\users\acer\source\repos\павловская №4\павловская №4\павловская №4.cpp(20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\acer\source\repos\павловская №4\павловская №4\павловская №4.cpp(32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Павловская №4.vcxproj -> C:\Users\acer\source\repos\Павловская №4\Debug\Павловская №4.exe
